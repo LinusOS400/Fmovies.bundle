@@ -54,3 +54,26 @@ Changelog
 Donate
 
 Like my work? Comment or buy me a coffee =)
+<script src="//blockr.io/js_external/coinwidget/coin.js"></script>
+		<script>
+			CoinWidgetCom.go({
+				wallet_address: '1MmwvmDdSPe27MPAJxRaDQ3x3bMu855ayY',
+				currency: 'bitcoin',
+				counter: 'count',
+				lbl_button: 'Donate',
+				lbl_count: 'donations',
+				lbl_amount: 'BTC',
+				lbl_address: 'Use address below to donate. Thanks!',
+				qrcode: true,
+				alignment: 'bl',
+				decimals: 8,
+				size: "small",
+				color: "dark",
+				countdownFrom: "0",
+				element: "#coinwidget-bitcoin-1MmwvmDdSPe27MPAJxRaDQ3x3bMu855ayY",
+				onShow: function(){},
+				onHide: function(){}
+			});
+		</script>
+		<div id="coinwidget-bitcoin-1MmwvmDdSPe27MPAJxRaDQ3x3bMu855ayY"></div>
+
