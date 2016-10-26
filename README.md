@@ -11,19 +11,19 @@ System Requirements
 Plex Media Server:
 
 Tested Working:
-Windows
-Mac OSX
-Linux
+<b>Windows</b>
+<b>Mac OSX</b>
+<b>Linux</b>
 Plex Clients:
 
 Tested Working:
 
 Plex/Web
-Android
-Chromecast
-Roku
-iOS
-Smart TV
+<b>Android</b>
+<b>Chromecast</b>
+<b>Roku</b>
+<b>iOS</b>
+<b>Smart TV</b>
 Not Tested:
 
 Windows 8
@@ -49,7 +49,7 @@ No metadata info on final video page due to Google Video link.
 Source website has missing videos for some TV series.
 Changelog
 
-0.01 - 10/25/2016 - Intial Release
+<b>0.01</b> - 10/25/2016 - Intial Release
 
 Donate
 
