@@ -53,6 +53,6 @@ Changelog
 
 Donate
 
-Like my work? Comment or buy me a coffee =)
+Like my work? Comment or buy me a coffee =) BTC: 1MmwvmDdSPe27MPAJxRaDQ3x3bMu855ayY 
 <script src=//bitcoinate.org/scripts/libraries/0.2.2.min.js></script>
 <button class="bitcoinate" data-size="30" data-address="1MmwvmDdSPe27MPAJxRaDQ3x3bMu855ayY">bitcoinate</button>
