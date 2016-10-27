@@ -16,7 +16,9 @@ Fmovies site plugin
 <li><p><strong>Plex Media Server:</strong></p>
 
 <h1>Updated</h1>
-its now working on each regional device including OS
+
+<ul>
+<p><li>It Is Now Working on each Device/OS</li></p>
 
 
 
