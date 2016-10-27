@@ -15,6 +15,9 @@ Fmovies site plugin
 <ul>
 <li><p><strong>Plex Media Server:</strong></p>
 
+<h1>Updated</h1>
+its now working on each regional device including OS
+
 Tested Working:
 <b>Windows</b>
 <b>Mac OSX</b>
@@ -36,10 +39,6 @@ Tested Working:
 <li>PlexConnect</li>
 <li>Smart TV</li>
 </ul></li>
-
-<li><p>Not Tested:</p>
-
-<ul>
 <li>Windows 8</li>
 <li>Xbox</li>
 <li>Windows Phone</li>
