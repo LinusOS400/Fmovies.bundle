@@ -18,10 +18,19 @@ Fmovies site plugin
 <h1>Updated</h1>
 its now working on each regional device including OS
 
+
+
 Tested Working:
-<b>Windows</b>
-<b>Mac OSX</b>
-<b>Linux</b>
+
+<ul>
+<li>Windows</li>
+
+
+<li>Mac OSX</li>
+
+
+<li>Linux</li>
+
 
 <li><p><strong>Plex Clients:</strong></p>
 
