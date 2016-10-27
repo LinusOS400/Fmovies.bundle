@@ -1,0 +1,9 @@
+[
+  {
+    "id": "site_url",
+    "type": "enum",
+    "label": "Site URL",
+    "values": ["http://fmovies.to", "http://fmovies.to.prx.proxyunblocker.org", "http://fmovies.to.prx.proxywebsite.co.uk"],
+    "default": "http://fmovies.to"
+  }
+]
