@@ -7,19 +7,9 @@
 		<dict>
 			<key>URLPatterns</key>
 			<array>
-				<string>http://redirector.googlevideo.com/.+</string>
-				<string>http://www.googlevideo.com/.+</string>
-				<string>http://googlevideo.com/.+</string>
-				<string>https://redirector.googlevideo.com/.+</string>
-				<string>https://www.googlevideo.com/.+</string>
-				<string>https://googlevideo.com/.+</string>
-				<string>http://lh3.googleusercontent.com/.+</string>
-				<string>http://www.googleusercontent.com/.+</string>
-				<string>http://googleusercontent.com/.+</string>
-				<string>https://lh3.googleusercontent.com/.+</string>
-				<string>https://www.googleusercontent.com/.+</string>
-				<string>https://googleusercontent.com/.+</string>
-				<string>https?://([a-z0-9]+[.])*blogspot.com/.+</string>
+				<string>https?:\/\/(www\.|redirector\.)?googlevideo\.com\/.+</string>
+				<string>https?:\/\/(www\.|lh3\.)?googleusercontent\.com\/.+</string>
+				<string>https?:\/\/([a-z0-9]+[.])*blogspot\.com\/.+</string>
 			</array>
 		</dict>
 	</dict>
